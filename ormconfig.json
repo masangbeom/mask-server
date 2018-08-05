@@ -1,0 +1,10 @@
+{
+  "type": "mysql",
+  "host": "cogent-rds.csorhyhls94i.ap-northeast-2.rds.amazonaws.com",
+  "port": 3306,
+  "username": "tonystark",
+  "password": "qhdks2868%",
+  "database": "cogent",
+  "entities": ["dist/entities/**.entity{.ts,.js}"],
+  "synchronize": true
+}
